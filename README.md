@@ -1,1 +1,1 @@
-# avp26
+Bu program, farklı gezegenlerin yerçekimi ivmelerini kullanarak temel fizik deneylerini simüle eden eğitici bir uygulamadır. Kullanıcıdan alınan süre, hız, kütle, sıvı derinliği ve ivme gibi verilerle serbest düşme, atış, basınç, periyot ve asansörde hissedilen ağırlık gibi büyüklükler her gezegen için hesaplanmaktadır.
